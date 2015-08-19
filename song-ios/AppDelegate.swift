@@ -3,7 +3,7 @@
 //  song-ios
 //
 //  Created by booy on 15/8/19.
-//  Copyright (c) 2015年 Aspiring Citizens Cleantech Pte. Ltd. All rights reserved.
+//  Copyright (c) 2015年 Booy All rights reserved.
 //
 
 import UIKit
@@ -13,9 +13,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
-        // Override point for customization after application launch.
         return true
     }
 

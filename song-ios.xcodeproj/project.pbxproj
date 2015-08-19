@@ -157,7 +157,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0640;
-				ORGANIZATIONNAME = "Aspiring Citizens Cleantech Pte. Ltd.";
+				ORGANIZATIONNAME = Booy;
 				TargetAttributes = {
 					F48720CA1B846C6D00392C3E = {
 						CreatedOnToolsVersion = 6.4;
